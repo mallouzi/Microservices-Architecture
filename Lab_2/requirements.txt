@@ -1,0 +1,6 @@
+
+Flask
+requests
+Flask-Limiter
+PyJWT
+python-dotenv
